@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <!--This creats a trasparent gradient filter-->
+            <gradient
+                android:angle="0"
+                android:startColor="#aa000000"
+                android:centerColor="#4f4e4e"
+                android:endColor="#aa000000"
+                android:type="linear"/>
+        </shape>
+    </item>
+</selector>

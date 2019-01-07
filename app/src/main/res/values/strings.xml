@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImprovedFitnessAppV2</string>
+    <string name="access_token">"pk.eyJ1IjoidGh1dGh1a2FkIiwiYSI6ImNqbjJ3cXliNTI4cTIza3FsemVia2g5MmQifQ.TznQj7VpcSm0uNq5CQR09g</string>
+    <string name="start_navigating">Start Navigating</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

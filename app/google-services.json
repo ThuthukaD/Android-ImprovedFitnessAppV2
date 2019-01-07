@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "202890920523",
+    "firebase_url": "https://pinauth-49e43.firebaseio.com",
+    "project_id": "pinauth-49e43",
+    "storage_bucket": "pinauth-49e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202890920523:android:25db32b9ea6463c0",
+        "android_client_info": {
+          "package_name": "com.example.desel.improvedfitnessappv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202890920523-pg5uermv6pbdd688tqjtt4m1elqsc934.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.improvedfitnessappv1",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXwk8OB8QbuzQZjcIf-GKkyous0Xb6AWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202890920523:android:6e4ac7903259bf1d",
+        "android_client_info": {
+          "package_name": "com.example.desel.improvedfitnessappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202890920523-ts75f4808756rrt39l8tbmbqcs15lsre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.improvedfitnessappv2",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXwk8OB8QbuzQZjcIf-GKkyous0Xb6AWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202890920523:android:f61f8aa1187ea68d",
+        "android_client_info": {
+          "package_name": "com.example.desel.pinauthv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202890920523-0d65limc415ev0t97hohg4fod8v60qvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.pinauthv1",
+            "certificate_hash": "8beb10882ae1cc822d16df1730ef121a83006eec"
+          }
+        },
+        {
+          "client_id": "202890920523-065tgr9bqltnrejlhb2fqbptjet3rk34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.pinauthv1",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXwk8OB8QbuzQZjcIf-GKkyous0Xb6AWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202890920523:android:c379fbc502fe84e6",
+        "android_client_info": {
+          "package_name": "com.example.desel.pinauthv11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202890920523-e2kaokvrtussbi72t1o7chif5bumsseo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.desel.pinauthv11",
+            "certificate_hash": "9896629d380eb84f83d83532ce4b5e1241295378"
+          }
+        },
+        {
+          "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXwk8OB8QbuzQZjcIf-GKkyous0Xb6AWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202890920523-asfu246nkpc3utchcfr3aquplh1r7ipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

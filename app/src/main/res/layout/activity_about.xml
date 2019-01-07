@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="385dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv2"
+                android:layout_alignParentStart="true"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="This is the Improved Fitness App Version 2. It has some general improvements over the first version is is made in a more comlex way than before to incorporate some of the things I have learnt or didnt have the time to implement before"
+                android:textColor="@color/softGrey"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="384dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv1"
+                android:layout_alignParentStart="true"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:text="NOTE: The app is a representation of how a fitness app would look and feel, nbut not all features related to the fitness aspect of the app will be fully functional, and will instead be locked off. Only the features reuired for the assignemnt will be gauranteed to be completed fully"
+                android:textColor="@color/softGrey"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="356dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
